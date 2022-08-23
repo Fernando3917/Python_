@@ -6,4 +6,5 @@ peso = input("Qual seu peso?") ;
 
 print(name,"Seu peso eh: ", peso, "e sua idade eh: ", idade) ;
 
+input("Pressione <enter> para encerrar!")
 

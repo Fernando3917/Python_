@@ -9,3 +9,4 @@ ano=input("por último... \n Qual o ano do seu nascimento?? :D ")
 
 print("\n\nParabens",nome,"parece que vocÊ nasceu no dia: ", dia, "do mes", mes, "do ano: ", ano)
 pint(dia,mes,ano)
+input("Pressione <enter> para encerrar!")
